@@ -6,7 +6,7 @@ You can also finetune [GPT-Neo-2.7B](https://huggingface.co/gustavecortal/gpt-ne
 
 Models trained with this method:
 
-Sauge Divine: [@saugedivine](https://twitter.com/saugedivine). Trained on philosophical, trippy and mystical content.
+Sauge Divine: [@saugedivine](https://twitter.com/saugedivine). Trained on philosophical, trippy and mystical content.  
 La Voix du Bot: [@lavoixdubot](https://twitter.com/lavoixdubot). Trained on French news.
 
 Twitter: [@gustavecortal](https://twitter.com/gustavecortal)
