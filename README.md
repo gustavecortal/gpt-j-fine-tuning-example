@@ -1,4 +1,4 @@
-### Fine-tuning 6-Billion GPT-J (& other models) in colab with LoRA and 8-bit compression
+### Fine-tuning 6-Billion GPT-J (& other models) in colab with LoRA and 8-bit compression [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/gustavecortal/gpt-j-fine-tuning-example/blob/main/finetune_8bit_models.ipynb)
 
 This notebook is a simple example for fine-tuning [GPT-J-6B](https://huggingface.co/EleutherAI/gpt-j-6B) with limited memory. A detailed explanation of how it works can be found in [this model card](https://huggingface.co/hivemind/gpt-j-6B-8bit). It is heavily based on [this Colab](https://colab.research.google.com/drive/1ft6wQU0BhqG5PRlwgaZJv2VukKKjU4Es#scrollTo=vfdLQHOuEU7h). Huge thanks to Hivemind!
 
