@@ -11,4 +11,5 @@ La Voix du Bot: [@lavoixdubot](https://twitter.com/lavoixdubot). Trained on Fren
 
 LoRA: https://arxiv.org/abs/2106.09685  
 8-bit Optimizers: https://arxiv.org/abs/2110.02861  
+
 Twitter: [@gustavecortal](https://twitter.com/gustavecortal)
