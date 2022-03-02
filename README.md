@@ -4,4 +4,9 @@ This notebook is a simple example for fine-tuning [GPT-J-6B](https://huggingface
 
 You can also finetune [GPT-Neo-2.7B](https://huggingface.co/gustavecortal/gpt-neo-2.7B-8bit), [French GPT-J (Cedille's Boris)](https://huggingface.co/gustavecortal/fr-boris-8bit) and [T0-3B](https://huggingface.co/gustavecortal/T0_3B-8bit) with limited memory.
 
+Models trained with this method:
+
+Sauge Divine: [@saugedivine](https://twitter.com/saugedivine). Trained on philosophical, trippy and mystical content.
+La Voix du Bot: [@lavoixdubot](https://twitter.com/lavoixdubot). Trained on French news.
+
 Twitter: [@gustavecortal](https://twitter.com/gustavecortal)
